@@ -62,3 +62,13 @@
     border: none;
     border-radius: 5px;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.about-title{
+    text-align:center;
+    padding: 20px;
+}
