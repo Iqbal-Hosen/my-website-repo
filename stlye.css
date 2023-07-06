@@ -1,0 +1,18 @@
+*{
+    margin:  0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(37, 36, 36);
+    padding: 20px;
+    color:white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.logo-photo{
+   width: 120px;
+   
+}
